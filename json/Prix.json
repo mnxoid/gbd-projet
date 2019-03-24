@@ -1,0 +1,72 @@
+[
+  {
+    "Client": 2,
+    "Vetement": 1,
+    "Prix": 15,
+    "Start_date": "2018-09-01 00:00:00",
+    "Creation_date": "2018-09-25 00:00:00"
+  },
+  {
+    "Client": 1,
+    "Vetement": 70,
+    "Prix": 20,
+    "Start_date": "2018-09-01 00:00:00",
+    "Creation_date": "2018-10-31 00:00:00"
+  },
+  {
+    "Client": 1,
+    "Vetement": 71,
+    "Prix": 20,
+    "Start_date": "2018-09-01 00:00:00",
+    "Creation_date": "2018-11-13 00:00:00"
+  },
+  {
+    "Client": 2,
+    "Vetement": 71,
+    "Prix": 17,
+    "Start_date": "2018-09-01 00:00:00",
+    "Creation_date": "2018-11-13 00:00:00"
+  },
+  {
+    "Client": 2,
+    "Vetement": 70,
+    "Prix": 17,
+    "Start_date": "2018-09-01 00:00:00",
+    "Creation_date": "2018-11-13 00:00:00"
+  },
+  {
+    "Client": 1,
+    "Vetement": 1,
+    "Prix": 25,
+    "Start_date": "2018-09-01 00:00:00",
+    "Creation_date": "2018-12-13 00:00:00"
+  },
+  {
+    "Client": 1,
+    "Vetement": 72,
+    "Prix": 20,
+    "Start_date": "2018-08-01 00:00:00",
+    "Creation_date": "2018-12-02 00:00:00"
+  },
+  {
+    "Client": 2,
+    "Vetement": 72,
+    "Prix": 18,
+    "Start_date": "2018-07-03 00:00:00",
+    "Creation_date": "2018-12-02 00:00:00"
+  },
+  {
+    "Client": 1,
+    "Vetement": 73,
+    "Prix": 50,
+    "Start_date": "2018-08-01 00:00:00",
+    "Creation_date": "2018-12-02 00:00:00"
+  },
+  {
+    "Client": 2,
+    "Vetement": 73,
+    "Prix": 40,
+    "Start_date": "2018-08-13 00:00:00",
+    "Creation_date": "2018-12-02 00:00:00"
+  }
+]

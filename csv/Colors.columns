@@ -1,0 +1,4 @@
+"name","type"
+"N°","INT"
+"Nom","VARCHAR(10)"
+"Code","VARCHAR(7)"

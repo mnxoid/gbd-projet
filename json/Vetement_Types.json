@@ -1,0 +1,42 @@
+[
+  {
+    "_id": 1,
+    "Nom": "Tee-shirt"
+  },
+  {
+    "_id": 2,
+    "Nom": "Débardeur"
+  },
+  {
+    "_id": 3,
+    "Nom": "Pantalons"
+  },
+  {
+    "_id": 4,
+    "Nom": "Jeans"
+  },
+  {
+    "_id": 5,
+    "Nom": "Veste"
+  },
+  {
+    "_id": 6,
+    "Nom": "Pull"
+  },
+  {
+    "_id": 7,
+    "Nom": "Cardigan"
+  },
+  {
+    "_id": 8,
+    "Nom": "Chaussettes"
+  },
+  {
+    "_id": 9,
+    "Nom": "Robe"
+  },
+  {
+    "_id": 10,
+    "Nom": "Blouse"
+  }
+]

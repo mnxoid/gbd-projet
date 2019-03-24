@@ -1,0 +1,38 @@
+[
+  {
+    "_id": 1,
+    "Nom": "Soie chinois",
+    "Adresse": "Chine",
+    "Ville": "Pékin",
+    "CodePostal": 102600,
+    "Tel": "8601235694",
+    "Email": "fourn@mail.com"
+  },
+  {
+    "_id": 2,
+    "Nom": "Cotton Country",
+    "Adresse": "Les Etats-Unis",
+    "Ville": "Phoenix",
+    "CodePostal": 85003,
+    "Tel": "0455056593",
+    "Email": "cc@mail.com"
+  },
+  {
+    "_id": 3,
+    "Nom": "Tissue Inc",
+    "Adresse": "Les Etats-Unis",
+    "Ville": "Phoenix",
+    "CodePostal": 85003,
+    "Tel": "0455896432",
+    "Email": "t-inc@mail.com"
+  },
+  {
+    "_id": 4,
+    "Nom": "James Jeans",
+    "Adresse": "10, Garfield Street",
+    "Ville": "Lafayette",
+    "CodePostal": 70501,
+    "Tel": "0365795423",
+    "Email": "contact@jjeans.com"
+  }
+]

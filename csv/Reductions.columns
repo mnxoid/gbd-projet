@@ -1,0 +1,6 @@
+"name","type"
+"Client","INT"
+"Vetement","INT"
+"Pourcentage","DECIMAL(3, 2)"
+"Start_date","VARCHAR(19)"
+"End_date","VARCHAR(19)"

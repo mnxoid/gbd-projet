@@ -1,0 +1,107 @@
+[
+  {
+    "_id": 1,
+    "Nom": "ZenStore",
+    "Type": 2,
+    "Telephone": "0202020202",
+    "Email": "ZenStore@mail.com"
+  },
+  {
+    "_id": 2,
+    "Nom": "Shoplife",
+    "Type": 1,
+    "Telephone": "0303030303",
+    "Email": "Shoplife@mail.com"
+  },
+  {
+    "_id": 3,
+    "Nom": "Fwear",
+    "Type": 1,
+    "Telephone": "0404040404",
+    "Email": "Fwear@mail.com"
+  },
+  {
+    "_id": 4,
+    "Nom": "BonPrix",
+    "Type": 2,
+    "Telephone": "0505050505",
+    "Email": "BonPrix@mail.com"
+  },
+  {
+    "_id": 5,
+    "Nom": "HeyClothes",
+    "Type": 2,
+    "Telephone": "0606060606",
+    "Email": "HeyClothes@mail.com"
+  },
+  {
+    "_id": 6,
+    "Nom": "Storea",
+    "Type": 1,
+    "Telephone": "0707070707",
+    "Email": "Storea@mail.com"
+  },
+  {
+    "_id": 7,
+    "Nom": "Shopfino",
+    "Type": 1,
+    "Telephone": "0808080808",
+    "Email": "Shopfino@mail.com"
+  },
+  {
+    "_id": 8,
+    "Nom": "KitoStore",
+    "Type": 1,
+    "Telephone": "0909090909",
+    "Email": "KitoStore@mail.com"
+  },
+  {
+    "_id": 9,
+    "Nom": "BSJ",
+    "Type": 2,
+    "Telephone": "0102020202",
+    "Email": "BSJ@mail.com"
+  },
+  {
+    "_id": 10,
+    "Nom": "T-suit",
+    "Type": 1,
+    "Telephone": "0201010203",
+    "Email": "T-suit@mail.com"
+  },
+  {
+    "_id": 11,
+    "Nom": "ComicsSuit",
+    "Type": 1,
+    "Telephone": "0405060708",
+    "Email": "ComicsSuit@mail.com"
+  },
+  {
+    "_id": 12,
+    "Nom": "Stylish",
+    "Type": 1,
+    "Telephone": "0305080409",
+    "Email": "Stylish@mail.com"
+  },
+  {
+    "_id": 13,
+    "Nom": "FlashFan",
+    "Type": 1,
+    "Telephone": "0905070106",
+    "Email": "FlashFan@mail.com"
+  },
+  {
+    "_id": 14,
+    "Nom": "Arrow",
+    "Type": 2,
+    "Telephone": "0124262829",
+    "Email": "Arrow@mail.com"
+  },
+  {
+    "_id": 15,
+    "Nom": "T-Stark",
+    "Type": 1,
+    "Telephone": "0123687459",
+    "Email": "T-Stark@mail.com"
+  }
+]

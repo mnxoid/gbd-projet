@@ -1,0 +1,6 @@
+"name","type"
+"ID","INT"
+"Nom","VARCHAR(18)"
+"Type","INT"
+"Color","INT"
+"Size","VARCHAR(2)"

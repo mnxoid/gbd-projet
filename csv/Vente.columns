@@ -1,0 +1,4 @@
+"name","type"
+"N°","INT"
+"Client","INT"
+"Date","VARCHAR(19)"

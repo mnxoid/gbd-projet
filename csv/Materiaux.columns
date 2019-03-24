@@ -1,0 +1,6 @@
+"name","type"
+"ID","INT"
+"Nom","VARCHAR(9)"
+"Unite","VARCHAR(1)"
+"Prix","INT"
+"Fournisseur","INT"

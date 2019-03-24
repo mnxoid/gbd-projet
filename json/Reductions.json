@@ -1,0 +1,37 @@
+[
+  {
+    "Client": 2,
+    "Vetement": 3,
+    "Pourcentage": 0.5,
+    "Start_date": "2018-11-01 00:00:00",
+    "End_date": "2018-11-30 00:00:00"
+  },
+  {
+    "Client": 1,
+    "Vetement": 4,
+    "Pourcentage": 0.2,
+    "Start_date": "2018-11-01 00:00:00",
+    "End_date": "2018-11-30 00:00:00"
+  },
+  {
+    "Client": 2,
+    "Vetement": 2,
+    "Pourcentage": 0.1,
+    "Start_date": "2018-11-11 00:00:00",
+    "End_date": "2018-11-12 00:00:00"
+  },
+  {
+    "Client": 2,
+    "Vetement": 9,
+    "Pourcentage": 0.3,
+    "Start_date": "2017-10-01 00:00:00",
+    "End_date": "2021-10-30 00:00:00"
+  },
+  {
+    "Client": 1,
+    "Vetement": 8,
+    "Pourcentage": 0.05,
+    "Start_date": "2018-11-22 00:00:00",
+    "End_date": "2018-11-30 00:00:00"
+  }
+]

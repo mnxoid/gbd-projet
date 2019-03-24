@@ -1,0 +1,30 @@
+[
+  {
+    "_id": 1,
+    "Nom": "Sklad 1",
+    "Adresse": "17 rue de Papillon",
+    "Ville": "Lille",
+    "CodePostale": 59800
+  },
+  {
+    "_id": 2,
+    "Nom": "Sklad 2",
+    "Adresse": "23 Schmetterling Straße",
+    "Ville": "Munich",
+    "CodePostale": 80799
+  },
+  {
+    "_id": 3,
+    "Nom": "Sklad 3",
+    "Adresse": "17 vul Khreschatyk",
+    "Ville": "Kyiv",
+    "CodePostale": 1235
+  },
+  {
+    "_id": 4,
+    "Nom": "Sklad 4",
+    "Adresse": "166 rue Papillon",
+    "Ville": "Montréal",
+    "CodePostale": 514
+  }
+]

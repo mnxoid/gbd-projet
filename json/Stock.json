@@ -1,0 +1,74 @@
+[
+  {
+    "_id": 1,
+    "Vetement": 1,
+    "Quantite": 5,
+    "Entrepot": 1
+  },
+  {
+    "_id": 2,
+    "Vetement": 70,
+    "Quantite": 4,
+    "Entrepot": 1
+  },
+  {
+    "_id": 3,
+    "Vetement": 71,
+    "Quantite": 6,
+    "Entrepot": 1
+  },
+  {
+    "_id": 4,
+    "Vetement": 72,
+    "Quantite": 8,
+    "Entrepot": 2
+  },
+  {
+    "_id": 5,
+    "Vetement": 76,
+    "Quantite": 10,
+    "Entrepot": 2
+  },
+  {
+    "_id": 6,
+    "Vetement": 78,
+    "Quantite": 1,
+    "Entrepot": 2
+  },
+  {
+    "_id": 7,
+    "Vetement": 80,
+    "Quantite": 7,
+    "Entrepot": 3
+  },
+  {
+    "_id": 8,
+    "Vetement": 83,
+    "Quantite": 5,
+    "Entrepot": 3
+  },
+  {
+    "_id": 9,
+    "Vetement": 91,
+    "Quantite": 10,
+    "Entrepot": 3
+  },
+  {
+    "_id": 10,
+    "Vetement": 86,
+    "Quantite": 2,
+    "Entrepot": 4
+  },
+  {
+    "_id": 11,
+    "Vetement": 92,
+    "Quantite": 3,
+    "Entrepot": 4
+  },
+  {
+    "_id": 12,
+    "Vetement": 94,
+    "Quantite": 10,
+    "Entrepot": 4
+  }
+]

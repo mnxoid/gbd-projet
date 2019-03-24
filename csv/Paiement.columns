@@ -1,0 +1,4 @@
+"name","type"
+"Vente","INT"
+"Date","VARCHAR(19)"
+"Somme","VARCHAR(3)"

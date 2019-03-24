@@ -1,0 +1,6 @@
+"name","type"
+"N°","INT"
+"Nom","VARCHAR(10)"
+"Type","INT"
+"Telephone","INT"
+"Email","VARCHAR(19)"

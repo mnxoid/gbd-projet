@@ -1,0 +1,6 @@
+"name","type"
+"Client","INT"
+"Vetement","INT"
+"Prix","INT"
+"Start_date","VARCHAR(19)"
+"Creation_date","VARCHAR(19)"

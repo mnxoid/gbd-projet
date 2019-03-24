@@ -1,0 +1,27 @@
+[
+  {
+    "Vente": 1,
+    "Vetement": 1,
+    "Quantite": 12
+  },
+  {
+    "Vente": 2,
+    "Vetement": 70,
+    "Quantite": 15
+  },
+  {
+    "Vente": 2,
+    "Vetement": 71,
+    "Quantite": 15
+  },
+  {
+    "Vente": 3,
+    "Vetement": 72,
+    "Quantite": 3
+  },
+  {
+    "Vente": 3,
+    "Vetement": 73,
+    "Quantite": 6
+  }
+]

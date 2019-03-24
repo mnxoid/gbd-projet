@@ -1,0 +1,6 @@
+"name","type"
+"ID","INT"
+"Nom","VARCHAR(7)"
+"Adresse","VARCHAR(23)"
+"Ville","VARCHAR(8)"
+"CodePostale","INT"

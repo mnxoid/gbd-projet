@@ -1,0 +1,37 @@
+[
+  {
+    "_id": 3,
+    "Nom": "Cotton",
+    "Unite": "m",
+    "Prix": 20,
+    "Fournisseur": 2
+  },
+  {
+    "_id": 4,
+    "Nom": "Polyester",
+    "Unite": "m",
+    "Prix": 5,
+    "Fournisseur": 3
+  },
+  {
+    "_id": 5,
+    "Nom": "Cuir",
+    "Unite": "m",
+    "Prix": 15,
+    "Fournisseur": 3
+  },
+  {
+    "_id": 1,
+    "Nom": "Jeans",
+    "Unite": "m",
+    "Prix": 10,
+    "Fournisseur": 3
+  },
+  {
+    "_id": 2,
+    "Nom": "Soie",
+    "Unite": "m",
+    "Prix": 50,
+    "Fournisseur": 1
+  }
+]
