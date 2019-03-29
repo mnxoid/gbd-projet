@@ -22,8 +22,11 @@ conn = new Mongo();
 db = conn.getDB("ProjectDB")
 // Declarations
 fetch = x => tojson(x.toArray())
+fetchone = x => tojson(x)
 // fetchobj = x => JSON.parse(tojson(x.toArray()))
 fetchobj = x => x.toArray()
 fetchMR = x => tojson(x.results)
 fetchMRobj = x => x.results
 display = x => print(fetch(x))
+displayone = x => print(fetchone(x))
+displayMR = x => print(fetchMR(x))
