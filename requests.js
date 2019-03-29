@@ -92,3 +92,14 @@ GetPaiementTotal = function(venteId){
 
 
 print("\nTotal payment for receipt #1:",GetPaiementTotal(1))
+
+print("\nClient number per type:")
+display(db.getCollection("Clients").aggregate(
+    [{
+      $group : {
+        _id : {type : "$Type"},
+        nbClients : {$sum : 1}
+      }
+    }]
+  )
+)
