@@ -75,3 +75,20 @@ print(
   .join("\n")
 )
 
+GetPaiementTotal = function(venteId){
+  pai = db.getCollection("Paiements").aggregate(
+    [
+      { 
+        $match : { "Vente" : venteId }
+      },
+      {
+        $group : { _id : {vente : "$Vente"},
+                       sum : {$sum : "$Somme"}}
+        }
+    ]
+  ).toArray()[0]
+  return pai.sum
+}
+
+
+print("\nTotal payment for receipt #1:",GetPaiementTotal(1))
